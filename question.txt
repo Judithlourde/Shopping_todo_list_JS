@@ -1,6 +1,14 @@
 Hei! 
 Jeg har et spørsmål.
 Tror jeg...mulig jeg kom på svaret akkurat nå...
-i hvilke tilfeller er det nødvendig med functionName(e), altså "e" som argument i funksjonen? Nå som jeg tenker meg om er det vel for alle funksjoner som er avhengig av en event-listener for å kjøre...🤔
+i hvilke tilfeller er det nødvendig med functionName(e), altså "e" 
+som argument i funksjonen? 
+Nå som jeg tenker meg om er det vel for alle funksjoner som er avhengig av en 
+event-listener for å kjøre...🤔
 
 Tenker jeg rett?
+
+Hei tilbake!
+Nei addToList function bare legger listitem-ene i rekkefølge.
+Jeg har laget bare adding to list hvis du vil du/jeg kan lage en button til å
+remove item fra list. 

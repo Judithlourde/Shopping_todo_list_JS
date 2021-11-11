@@ -27,6 +27,7 @@ function addToList() {
     // Adding empty string to the inputElement. 
     // It's clear the input value for adding the new value to the <li>
     
+    // Her skal vi sette inputElement.value til ''
 
 
 
