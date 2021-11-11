@@ -12,3 +12,7 @@ Hei tilbake!
 Nei addToList function bare legger listitem-ene i rekkefølge.
 Jeg har laget bare adding to list hvis du vil du/jeg kan lage en button til å
 remove item fra list. 
+
+Hei igjen. aha, ja nei, spørsmålet var bare helt generelt, handlet ikke om denne oppgaven 😋.
+Trodde forresten jeg skulle få beskjed fra Github når det skjedde noe, men det gjør jeg jo ikke. 
+Den Notifications-greia til Github fungerer ikke helt som forventet. Uansett: beklager sent svar.
